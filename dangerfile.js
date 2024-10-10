@@ -15,3 +15,5 @@ licenseAuditor({
     fail,
   },
 });
+
+console.log('Hello World');
