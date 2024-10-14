@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import _ from "lodash";
+
+console.log(_.VERSION);
 
 function App() {
   return (
@@ -9,6 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Example of lodash method</p>
+        <p>{_.camelCase("Hello World")}</p>
         <a
           className="App-link"
           href="https://reactjs.org"
