@@ -1,0 +1,527 @@
+[
+  {
+    "name": "temp",
+    "version": "0.4.0",
+    "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp",
+    "private": true,
+    "dependencies": {
+      "@apollo/client": {
+        "from": "@apollo/client",
+        "version": "3.11.8",
+        "resolved": "https://registry.npmjs.org/@apollo/client/-/client-3.11.8.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@apollo+client@3.11.8_@types+react@18.3.11_graphql@16.9.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@apollo/client"
+      },
+      "@apollo/persisted-query-lists": {
+        "from": "@apollo/persisted-query-lists",
+        "version": "1.0.0",
+        "resolved": "https://registry.npmjs.org/@apollo/persisted-query-lists/-/persisted-query-lists-1.0.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@apollo+persisted-query-lists@1.0.0_@apollo+client@3.11.8_@types+react@18.3.11_graphql@16.9.0_3ogedvuwxb5jx6lejv4mx4nb74/node_modules/@apollo/persisted-query-lists"
+      },
+      "@auth0/auth0-react": {
+        "from": "@auth0/auth0-react",
+        "version": "1.12.1",
+        "resolved": "https://registry.npmjs.org/@auth0/auth0-react/-/auth0-react-1.12.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@auth0+auth0-react@1.12.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@auth0/auth0-react"
+      },
+      "@auth0/nextjs-auth0": {
+        "from": "@auth0/nextjs-auth0",
+        "version": "1.9.3",
+        "resolved": "https://registry.npmjs.org/@auth0/nextjs-auth0/-/nextjs-auth0-1.9.3.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@auth0+nextjs-auth0@1.9.3_next@12.3.4_@babel+core@7.25.8_react-dom@18.3.1_react@18.3.1__react@18.3.1_/node_modules/@auth0/nextjs-auth0"
+      },
+      "@brainhubeu/license-auditor": {
+        "from": "@brainhubeu/license-auditor",
+        "version": "1.2.0",
+        "resolved": "https://codeload.github.com/brainhubeu/license-auditor/tar.gz/6c0b9440ea374b2dd592ead7b003d2af828c225f",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@brainhubeu+license-auditor@https+++codeload.github.com+brainhubeu+license-auditor+tar.gz+6c0_w2q3uxveadxbvzzuwhjswc427i/node_modules/@brainhubeu/license-auditor"
+      },
+      "@hookform/resolvers": {
+        "from": "@hookform/resolvers",
+        "version": "2.9.11",
+        "resolved": "https://registry.npmjs.org/@hookform/resolvers/-/resolvers-2.9.11.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@hookform+resolvers@2.9.11_react-hook-form@7.53.0_react@18.3.1_/node_modules/@hookform/resolvers"
+      },
+      "@react-hook/merged-ref": {
+        "from": "@react-hook/merged-ref",
+        "version": "1.3.2",
+        "resolved": "https://registry.npmjs.org/@react-hook/merged-ref/-/merged-ref-1.3.2.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@react-hook+merged-ref@1.3.2_react@18.3.1/node_modules/@react-hook/merged-ref"
+      },
+      "@stitches/react": {
+        "from": "@stitches/react",
+        "version": "1.2.8",
+        "resolved": "https://registry.npmjs.org/@stitches/react/-/react-1.2.8.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@stitches+react@1.2.8_react@18.3.1/node_modules/@stitches/react"
+      },
+      "@stripe/react-stripe-js": {
+        "from": "@stripe/react-stripe-js",
+        "version": "2.8.1",
+        "resolved": "https://registry.npmjs.org/@stripe/react-stripe-js/-/react-stripe-js-2.8.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@stripe+react-stripe-js@2.8.1_@stripe+stripe-js@1.54.2_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@stripe/react-stripe-js"
+      },
+      "@stripe/stripe-js": {
+        "from": "@stripe/stripe-js",
+        "version": "1.54.2",
+        "resolved": "https://registry.npmjs.org/@stripe/stripe-js/-/stripe-js-1.54.2.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@stripe+stripe-js@1.54.2/node_modules/@stripe/stripe-js"
+      },
+      "@tanstack/react-query": {
+        "from": "@tanstack/react-query",
+        "version": "4.36.1",
+        "resolved": "https://registry.npmjs.org/@tanstack/react-query/-/react-query-4.36.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@tanstack+react-query@4.36.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@tanstack/react-query"
+      },
+      "@tanstack/react-query-devtools": {
+        "from": "@tanstack/react-query-devtools",
+        "version": "4.36.1",
+        "resolved": "https://registry.npmjs.org/@tanstack/react-query-devtools/-/react-query-devtools-4.36.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@tanstack+react-query-devtools@4.36.1_@tanstack+react-query@4.36.1_react-dom@18.3.1_react@18._7so3kfcjh5wrfohcrcdehpw344/node_modules/@tanstack/react-query-devtools"
+      },
+      "@testing-library/jest-dom": {
+        "from": "@testing-library/jest-dom",
+        "version": "5.17.0",
+        "resolved": "https://registry.npmjs.org/@testing-library/jest-dom/-/jest-dom-5.17.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@testing-library+jest-dom@5.17.0/node_modules/@testing-library/jest-dom"
+      },
+      "@testing-library/react": {
+        "from": "@testing-library/react",
+        "version": "13.4.0",
+        "resolved": "https://registry.npmjs.org/@testing-library/react/-/react-13.4.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@testing-library+react@13.4.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/@testing-library/react"
+      },
+      "@testing-library/user-event": {
+        "from": "@testing-library/user-event",
+        "version": "13.5.0",
+        "resolved": "https://registry.npmjs.org/@testing-library/user-event/-/user-event-13.5.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@testing-library+user-event@13.5.0_@testing-library+dom@8.20.1/node_modules/@testing-library/user-event"
+      },
+      "@types/draft-js": {
+        "from": "@types/draft-js",
+        "version": "0.11.18",
+        "resolved": "https://registry.npmjs.org/@types/draft-js/-/draft-js-0.11.18.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@types+draft-js@0.11.18/node_modules/@types/draft-js"
+      },
+      "@types/react-slider": {
+        "from": "@types/react-slider",
+        "version": "1.3.6",
+        "resolved": "https://registry.npmjs.org/@types/react-slider/-/react-slider-1.3.6.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@types+react-slider@1.3.6/node_modules/@types/react-slider"
+      },
+      "auth0-js": {
+        "from": "auth0-js",
+        "version": "9.27.0",
+        "resolved": "https://registry.npmjs.org/auth0-js/-/auth0-js-9.27.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/auth0-js@9.27.0/node_modules/auth0-js"
+      },
+      "axios": {
+        "from": "axios",
+        "version": "1.7.7",
+        "resolved": "https://registry.npmjs.org/axios/-/axios-1.7.7.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/axios@1.7.7/node_modules/axios"
+      },
+      "beautiful-react-hooks": {
+        "from": "beautiful-react-hooks",
+        "version": "1.2.0",
+        "resolved": "https://registry.npmjs.org/beautiful-react-hooks/-/beautiful-react-hooks-1.2.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/beautiful-react-hooks@1.2.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/beautiful-react-hooks"
+      },
+      "bluebird": {
+        "from": "bluebird",
+        "version": "3.7.2",
+        "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.7.2.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/bluebird@3.7.2/node_modules/bluebird"
+      },
+      "clsx": {
+        "from": "clsx",
+        "version": "1.2.1",
+        "resolved": "https://registry.npmjs.org/clsx/-/clsx-1.2.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/clsx@1.2.1/node_modules/clsx"
+      },
+      "crypto-hash": {
+        "from": "crypto-hash",
+        "version": "2.0.1",
+        "resolved": "https://registry.npmjs.org/crypto-hash/-/crypto-hash-2.0.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/crypto-hash@2.0.1/node_modules/crypto-hash"
+      },
+      "dayjs": {
+        "from": "dayjs",
+        "version": "1.11.13",
+        "resolved": "https://registry.npmjs.org/dayjs/-/dayjs-1.11.13.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs"
+      },
+      "dependency-tree": {
+        "from": "dependency-tree",
+        "version": "11.0.1",
+        "resolved": "https://registry.npmjs.org/dependency-tree/-/dependency-tree-11.0.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/dependency-tree@11.0.1/node_modules/dependency-tree"
+      },
+      "detect-browser": {
+        "from": "detect-browser",
+        "version": "5.3.0",
+        "resolved": "https://registry.npmjs.org/detect-browser/-/detect-browser-5.3.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/detect-browser@5.3.0/node_modules/detect-browser"
+      },
+      "draft-js": {
+        "from": "draft-js",
+        "version": "0.11.7",
+        "resolved": "https://registry.npmjs.org/draft-js/-/draft-js-0.11.7.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/draft-js@0.11.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/draft-js"
+      },
+      "express": {
+        "from": "express",
+        "version": "4.21.1",
+        "resolved": "https://registry.npmjs.org/express/-/express-4.21.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/express@4.21.1/node_modules/express"
+      },
+      "graphql": {
+        "from": "graphql",
+        "version": "16.9.0",
+        "resolved": "https://registry.npmjs.org/graphql/-/graphql-16.9.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/graphql@16.9.0/node_modules/graphql"
+      },
+      "grunt": {
+        "from": "grunt",
+        "version": "1.6.1",
+        "resolved": "https://registry.npmjs.org/grunt/-/grunt-1.6.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/grunt@1.6.1/node_modules/grunt"
+      },
+      "hamburger-react": {
+        "from": "hamburger-react",
+        "version": "2.5.1",
+        "resolved": "https://registry.npmjs.org/hamburger-react/-/hamburger-react-2.5.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/hamburger-react@2.5.1_react@18.3.1/node_modules/hamburger-react"
+      },
+      "i18next": {
+        "from": "i18next",
+        "version": "21.10.0",
+        "resolved": "https://registry.npmjs.org/i18next/-/i18next-21.10.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/i18next@21.10.0/node_modules/i18next"
+      },
+      "jest": {
+        "from": "jest",
+        "version": "27.5.1",
+        "resolved": "https://registry.npmjs.org/jest/-/jest-27.5.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/jest@27.5.1/node_modules/jest"
+      },
+      "lodash": {
+        "from": "lodash",
+        "version": "4.17.21",
+        "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/lodash@4.17.21/node_modules/lodash"
+      },
+      "md5": {
+        "from": "md5",
+        "version": "2.3.0",
+        "resolved": "https://registry.npmjs.org/md5/-/md5-2.3.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/md5@2.3.0/node_modules/md5"
+      },
+      "mocha": {
+        "from": "mocha",
+        "version": "10.7.3",
+        "resolved": "https://registry.npmjs.org/mocha/-/mocha-10.7.3.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/mocha@10.7.3/node_modules/mocha"
+      },
+      "mongoose": {
+        "from": "mongoose",
+        "version": "8.7.1",
+        "resolved": "https://registry.npmjs.org/mongoose/-/mongoose-8.7.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/mongoose@8.7.1/node_modules/mongoose"
+      },
+      "nanoid": {
+        "from": "nanoid",
+        "version": "3.3.7",
+        "resolved": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.7.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/nanoid@3.3.7/node_modules/nanoid"
+      },
+      "next": {
+        "from": "next",
+        "version": "12.3.4",
+        "resolved": "https://registry.npmjs.org/next/-/next-12.3.4.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/next@12.3.4_@babel+core@7.25.8_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next"
+      },
+      "nookies": {
+        "from": "nookies",
+        "version": "2.5.2",
+        "resolved": "https://registry.npmjs.org/nookies/-/nookies-2.5.2.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/nookies@2.5.2/node_modules/nookies"
+      },
+      "postcss-import": {
+        "from": "postcss-import",
+        "version": "14.1.0",
+        "resolved": "https://registry.npmjs.org/postcss-import/-/postcss-import-14.1.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/postcss-import@14.1.0_postcss@8.4.47/node_modules/postcss-import"
+      },
+      "react": {
+        "from": "react",
+        "version": "18.3.1",
+        "resolved": "https://registry.npmjs.org/react/-/react-18.3.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/react@18.3.1/node_modules/react"
+      },
+      "react-dom": {
+        "from": "react-dom",
+        "version": "18.3.1",
+        "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-18.3.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom"
+      },
+      "react-scripts": {
+        "from": "react-scripts",
+        "version": "5.0.1",
+        "resolved": "https://registry.npmjs.org/react-scripts/-/react-scripts-5.0.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/react-scripts@5.0.1_@babel+plugin-syntax-flow@7.25.7_@babel+core@7.25.8__@babel+plugin-transf_ub6yesdmgz6cnocvz4hnc4ncji/node_modules/react-scripts"
+      },
+      "recoil": {
+        "from": "recoil",
+        "version": "0.7.7",
+        "resolved": "https://registry.npmjs.org/recoil/-/recoil-0.7.7.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/recoil@0.7.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/recoil"
+      },
+      "redraft": {
+        "from": "redraft",
+        "version": "0.10.2",
+        "resolved": "https://registry.npmjs.org/redraft/-/redraft-0.10.2.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/redraft@0.10.2/node_modules/redraft"
+      },
+      "sharp": {
+        "from": "sharp",
+        "version": "0.30.7",
+        "resolved": "https://registry.npmjs.org/sharp/-/sharp-0.30.7.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/sharp@0.30.7/node_modules/sharp"
+      },
+      "storybook": {
+        "from": "storybook",
+        "version": "6.5.16",
+        "resolved": "https://registry.npmjs.org/storybook/-/storybook-6.5.16.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/storybook@6.5.16_eslint@8.57.1_react-dom@18.3.1_react@18.3.1__react@18.3.1_typescript@5.6.3/node_modules/storybook"
+      },
+      "tailwind-styled-components": {
+        "from": "tailwind-styled-components",
+        "version": "2.2.0",
+        "resolved": "https://registry.npmjs.org/tailwind-styled-components/-/tailwind-styled-components-2.2.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/tailwind-styled-components@2.2.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/tailwind-styled-components"
+      },
+      "tailwindcss-radix": {
+        "from": "tailwindcss-radix",
+        "version": "1.6.0",
+        "resolved": "https://registry.npmjs.org/tailwindcss-radix/-/tailwindcss-radix-1.6.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/tailwindcss-radix@1.6.0/node_modules/tailwindcss-radix"
+      },
+      "typewriter-effect": {
+        "from": "typewriter-effect",
+        "version": "2.21.0",
+        "resolved": "https://registry.npmjs.org/typewriter-effect/-/typewriter-effect-2.21.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/typewriter-effect@2.21.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/typewriter-effect"
+      },
+      "use-debounce": {
+        "from": "use-debounce",
+        "version": "8.0.4",
+        "resolved": "https://registry.npmjs.org/use-debounce/-/use-debounce-8.0.4.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/use-debounce@8.0.4_react@18.3.1/node_modules/use-debounce"
+      },
+      "use-gauge": {
+        "from": "use-gauge",
+        "version": "0.5.0",
+        "resolved": "https://registry.npmjs.org/use-gauge/-/use-gauge-0.5.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/use-gauge@0.5.0_react@18.3.1/node_modules/use-gauge"
+      },
+      "web-vitals": {
+        "from": "web-vitals",
+        "version": "2.1.4",
+        "resolved": "https://registry.npmjs.org/web-vitals/-/web-vitals-2.1.4.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/web-vitals@2.1.4/node_modules/web-vitals"
+      },
+      "yup": {
+        "from": "yup",
+        "version": "0.32.11",
+        "resolved": "https://registry.npmjs.org/yup/-/yup-0.32.11.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/yup@0.32.11/node_modules/yup"
+      },
+      "zustand": {
+        "from": "zustand",
+        "version": "4.5.5",
+        "resolved": "https://registry.npmjs.org/zustand/-/zustand-4.5.5.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/zustand@4.5.5_@types+react@18.3.11_immer@9.0.21_react@18.3.1/node_modules/zustand"
+      }
+    },
+    "devDependencies": {
+      "commitizen": {
+        "from": "commitizen",
+        "version": "4.3.1",
+        "resolved": "https://registry.npmjs.org/commitizen/-/commitizen-4.3.1.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/commitizen@4.3.1_@types+node@22.7.5_typescript@5.6.3/node_modules/commitizen"
+      },
+      "cz-conventional-changelog": {
+        "from": "cz-conventional-changelog",
+        "version": "3.3.0",
+        "resolved": "https://registry.npmjs.org/cz-conventional-changelog/-/cz-conventional-changelog-3.3.0.tgz",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/cz-conventional-changelog@3.3.0_@types+node@22.7.5_typescript@5.6.3/node_modules/cz-conventional-changelog"
+      }
+    },
+    "unsavedDependencies": {
+      "eslint-import-resolver-node": {
+        "from": "eslint-import-resolver-node",
+        "version": "link:node_modules/.pnpm/eslint-import-resolver-node@0.3.9/node_modules/eslint-import-resolver-node",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-import-resolver-node@0.3.9/node_modules/eslint-import-resolver-node"
+      },
+      "eslint": {
+        "from": "eslint",
+        "version": "link:node_modules/.pnpm/eslint@8.57.1/node_modules/eslint",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint@8.57.1/node_modules/eslint"
+      },
+      "eslint-plugin-flowtype": {
+        "from": "eslint-plugin-flowtype",
+        "version": "link:node_modules/.pnpm/eslint-plugin-flowtype@8.0.3_@babel+plugin-syntax-flow@7.25.7_@babel+core@7.25.8__@babel+plug_huab4gr4ohp7wl242ax4mfnsky/node_modules/eslint-plugin-flowtype",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-flowtype@8.0.3_@babel+plugin-syntax-flow@7.25.7_@babel+core@7.25.8__@babel+plug_huab4gr4ohp7wl242ax4mfnsky/node_modules/eslint-plugin-flowtype"
+      },
+      "eslint-plugin-jest": {
+        "from": "eslint-plugin-jest",
+        "version": "link:node_modules/.pnpm/eslint-plugin-jest@25.7.0_@typescript-eslint+eslint-plugin@5.62.0_@typescript-eslint+parser@5_ce5g7x4vytd6nga5c2hvjtzuxq/node_modules/eslint-plugin-jest",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-jest@25.7.0_@typescript-eslint+eslint-plugin@5.62.0_@typescript-eslint+parser@5_ce5g7x4vytd6nga5c2hvjtzuxq/node_modules/eslint-plugin-jest"
+      },
+      "eslint-plugin-import": {
+        "from": "eslint-plugin-import",
+        "version": "link:node_modules/.pnpm/eslint-plugin-import@2.31.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3__eslint@8.57.1/node_modules/eslint-plugin-import",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-import@2.31.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3__eslint@8.57.1/node_modules/eslint-plugin-import"
+      },
+      "eslint-config-react-app": {
+        "from": "eslint-config-react-app",
+        "version": "link:node_modules/.pnpm/eslint-config-react-app@7.0.1_@babel+plugin-syntax-flow@7.25.7_@babel+core@7.25.8__@babel+plu_6gdz3szu4fjpa5dmw2z7xhq3u4/node_modules/eslint-config-react-app",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-config-react-app@7.0.1_@babel+plugin-syntax-flow@7.25.7_@babel+core@7.25.8__@babel+plu_6gdz3szu4fjpa5dmw2z7xhq3u4/node_modules/eslint-config-react-app"
+      },
+      "eslint-plugin-jsx-a11y": {
+        "from": "eslint-plugin-jsx-a11y",
+        "version": "link:node_modules/.pnpm/eslint-plugin-jsx-a11y@6.10.0_eslint@8.57.1/node_modules/eslint-plugin-jsx-a11y",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-jsx-a11y@6.10.0_eslint@8.57.1/node_modules/eslint-plugin-jsx-a11y"
+      },
+      "eslint-plugin-react": {
+        "from": "eslint-plugin-react",
+        "version": "link:node_modules/.pnpm/eslint-plugin-react@7.37.1_eslint@8.57.1/node_modules/eslint-plugin-react",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-react@7.37.1_eslint@8.57.1/node_modules/eslint-plugin-react"
+      },
+      "eslint-module-utils": {
+        "from": "eslint-module-utils",
+        "version": "link:node_modules/.pnpm/eslint-module-utils@2.12.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3__e_m6shd7uhvys5bjkjfpmi6smgri/node_modules/eslint-module-utils",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-module-utils@2.12.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3__e_m6shd7uhvys5bjkjfpmi6smgri/node_modules/eslint-module-utils"
+      },
+      "eslint-plugin-react-hooks": {
+        "from": "eslint-plugin-react-hooks",
+        "version": "link:node_modules/.pnpm/eslint-plugin-react-hooks@4.6.2_eslint@8.57.1/node_modules/eslint-plugin-react-hooks",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-react-hooks@4.6.2_eslint@8.57.1/node_modules/eslint-plugin-react-hooks"
+      },
+      "eslint-plugin-testing-library": {
+        "from": "eslint-plugin-testing-library",
+        "version": "link:node_modules/.pnpm/eslint-plugin-testing-library@5.11.1_eslint@8.57.1_typescript@5.6.3/node_modules/eslint-plugin-testing-library",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-plugin-testing-library@5.11.1_eslint@8.57.1_typescript@5.6.3/node_modules/eslint-plugin-testing-library"
+      },
+      "eslint-scope": {
+        "from": "eslint-scope",
+        "version": "link:node_modules/.pnpm/eslint-scope@7.2.2/node_modules/eslint-scope",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-scope@7.2.2/node_modules/eslint-scope"
+      },
+      "eslint-visitor-keys": {
+        "from": "eslint-visitor-keys",
+        "version": "link:node_modules/.pnpm/eslint-visitor-keys@3.4.3/node_modules/eslint-visitor-keys",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-visitor-keys@3.4.3/node_modules/eslint-visitor-keys"
+      },
+      "prettier": {
+        "from": "prettier",
+        "version": "link:node_modules/.pnpm/prettier@2.3.0/node_modules/prettier",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/prettier@2.3.0/node_modules/prettier"
+      },
+      "eslint-webpack-plugin": {
+        "from": "eslint-webpack-plugin",
+        "version": "link:node_modules/.pnpm/eslint-webpack-plugin@3.2.0_eslint@8.57.1_webpack@5.95.0/node_modules/eslint-webpack-plugin",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/eslint-webpack-plugin@3.2.0_eslint@8.57.1_webpack@5.95.0/node_modules/eslint-webpack-plugin"
+      },
+      "@babel/eslint-parser": {
+        "from": "@babel/eslint-parser",
+        "version": "link:node_modules/.pnpm/@babel+eslint-parser@7.25.8_@babel+core@7.25.8_eslint@8.57.1/node_modules/@babel/eslint-parser",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@babel+eslint-parser@7.25.8_@babel+core@7.25.8_eslint@8.57.1/node_modules/@babel/eslint-parser"
+      },
+      "@eslint/js": {
+        "from": "@eslint/js",
+        "version": "link:node_modules/.pnpm/@eslint+js@8.57.1/node_modules/@eslint/js",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@eslint+js@8.57.1/node_modules/@eslint/js"
+      },
+      "@eslint-community/eslint-utils": {
+        "from": "@eslint-community/eslint-utils",
+        "version": "link:node_modules/.pnpm/@eslint-community+eslint-utils@4.4.0_eslint@8.57.1/node_modules/@eslint-community/eslint-utils",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@eslint-community+eslint-utils@4.4.0_eslint@8.57.1/node_modules/@eslint-community/eslint-utils"
+      },
+      "@eslint/eslintrc": {
+        "from": "@eslint/eslintrc",
+        "version": "link:node_modules/.pnpm/@eslint+eslintrc@2.1.4/node_modules/@eslint/eslintrc",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@eslint+eslintrc@2.1.4/node_modules/@eslint/eslintrc"
+      },
+      "@eslint-community/regexpp": {
+        "from": "@eslint-community/regexpp",
+        "version": "link:node_modules/.pnpm/@eslint-community+regexpp@4.11.1/node_modules/@eslint-community/regexpp",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@eslint-community+regexpp@4.11.1/node_modules/@eslint-community/regexpp"
+      },
+      "@nicolo-ribaudo/eslint-scope-5-internals": {
+        "from": "@nicolo-ribaudo/eslint-scope-5-internals",
+        "version": "link:node_modules/.pnpm/@nicolo-ribaudo+eslint-scope-5-internals@5.1.1-v1/node_modules/@nicolo-ribaudo/eslint-scope-5-internals",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@nicolo-ribaudo+eslint-scope-5-internals@5.1.1-v1/node_modules/@nicolo-ribaudo/eslint-scope-5-internals"
+      },
+      "@rushstack/eslint-patch": {
+        "from": "@rushstack/eslint-patch",
+        "version": "link:node_modules/.pnpm/@rushstack+eslint-patch@1.10.4/node_modules/@rushstack/eslint-patch",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@rushstack+eslint-patch@1.10.4/node_modules/@rushstack/eslint-patch"
+      },
+      "@types/eslint": {
+        "from": "@types/eslint",
+        "version": "link:node_modules/.pnpm/@types+eslint@8.56.12/node_modules/@types/eslint",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@types+eslint@8.56.12/node_modules/@types/eslint"
+      },
+      "@types/prettier": {
+        "from": "@types/prettier",
+        "version": "link:node_modules/.pnpm/@types+prettier@2.7.3/node_modules/@types/prettier",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@types+prettier@2.7.3/node_modules/@types/prettier"
+      },
+      "@typescript-eslint/eslint-plugin": {
+        "from": "@typescript-eslint/eslint-plugin",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+eslint-plugin@5.62.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typesc_kwe4hjucg4dypyhvhbzfzajlqu/node_modules/@typescript-eslint/eslint-plugin",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+eslint-plugin@5.62.0_@typescript-eslint+parser@5.62.0_eslint@8.57.1_typesc_kwe4hjucg4dypyhvhbzfzajlqu/node_modules/@typescript-eslint/eslint-plugin"
+      },
+      "@typescript-eslint/parser": {
+        "from": "@typescript-eslint/parser",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/parser",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+parser@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/parser"
+      },
+      "@typescript-eslint/experimental-utils": {
+        "from": "@typescript-eslint/experimental-utils",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+experimental-utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/experimental-utils",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+experimental-utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/experimental-utils"
+      },
+      "@typescript-eslint/scope-manager": {
+        "from": "@typescript-eslint/scope-manager",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+scope-manager@5.62.0/node_modules/@typescript-eslint/scope-manager",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+scope-manager@5.62.0/node_modules/@typescript-eslint/scope-manager"
+      },
+      "@typescript-eslint/types": {
+        "from": "@typescript-eslint/types",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+types@5.62.0/node_modules/@typescript-eslint/types",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+types@5.62.0/node_modules/@typescript-eslint/types"
+      },
+      "@typescript-eslint/type-utils": {
+        "from": "@typescript-eslint/type-utils",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+type-utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/type-utils",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+type-utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/type-utils"
+      },
+      "@typescript-eslint/typescript-estree": {
+        "from": "@typescript-eslint/typescript-estree",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+typescript-estree@5.62.0_typescript@5.6.3/node_modules/@typescript-eslint/typescript-estree",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+typescript-estree@5.62.0_typescript@5.6.3/node_modules/@typescript-eslint/typescript-estree"
+      },
+      "@typescript-eslint/utils": {
+        "from": "@typescript-eslint/utils",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/utils",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+utils@5.62.0_eslint@8.57.1_typescript@5.6.3/node_modules/@typescript-eslint/utils"
+      },
+      "@typescript-eslint/visitor-keys": {
+        "from": "@typescript-eslint/visitor-keys",
+        "version": "link:node_modules/.pnpm/@typescript-eslint+visitor-keys@5.62.0/node_modules/@typescript-eslint/visitor-keys",
+        "path": "/Users/mateuszjarzebowskibownik/Brainhub/temp/node_modules/.pnpm/@typescript-eslint+visitor-keys@5.62.0/node_modules/@typescript-eslint/visitor-keys"
+      }
+    }
+  }
+]
